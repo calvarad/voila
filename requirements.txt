@@ -1,6 +1,5 @@
 numpy
 pandas
-pickle
 ipywidgets
 jupyter 
 matplotlib
