@@ -3,4 +3,5 @@ pandas
 ipywidgets
 jupyter 
 matplotlib
+seaborn
 voila
