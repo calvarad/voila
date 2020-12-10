@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser comparador_voila.ipynb
+web: voila --port=$PORT --no-browser --debug comparador_voila.ipynb
