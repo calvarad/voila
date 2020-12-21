@@ -4,4 +4,5 @@ ipywidgets
 jupyter 
 matplotlib
 seaborn==0.10.1
+statsmodels
 voila
