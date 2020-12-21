@@ -3,6 +3,6 @@ pandas==1.0.5
 ipywidgets
 jupyter 
 matplotlib
-seaborn==0.10.1
+seaborn
 statsmodels
 voila
