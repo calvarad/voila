@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser comparador_AFPs.ipynb
+web: voila --port=$PORT --no-browser --debug comparador_AFPs.ipynb
